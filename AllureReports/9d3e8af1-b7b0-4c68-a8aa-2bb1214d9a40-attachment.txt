@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_Login:test_login.py:49 Start testing of test_login
+[32mINFO    [0m Test_Login:test_login.py:50 Opening Browser
+[32mINFO    [0m Test_Login:test_login.py:52 Go to Url
+[32mINFO    [0m Test_Login:test_login.py:57 Enter Clinic Code--->xyz
+[32mINFO    [0m Test_Login:test_login.py:60 Enter Username---->abc
+[32mINFO    [0m Test_Login:test_login.py:64 Enter Password---->123
+[32mINFO    [0m Test_Login:test_login.py:69 Click on Login  Button
+[32mINFO    [0m Test_Login:test_login.py:81 test_login testing is passed
+[32mINFO    [0m Test_Login:test_login.py:93 test_login testing os completed

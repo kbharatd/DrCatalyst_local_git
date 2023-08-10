@@ -1,0 +1,5 @@
+[32mINFO    [0m Test_Login:test_login.py:20 Start testing of test_page_title
+[32mINFO    [0m Test_Login:test_login.py:21 Opening Browser
+[32mINFO    [0m Test_Login:test_login.py:25 Go to Url
+[32mINFO    [0m Test_Login:test_login.py:32 test_page_title testing is passed
+[32mINFO    [0m Test_Login:test_login.py:42 test_page_title testing os completed

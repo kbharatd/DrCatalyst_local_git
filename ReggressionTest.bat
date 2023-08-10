@@ -1,0 +1,1 @@
+pytest -v --html=Reports/reggression_report.html -m reggression
